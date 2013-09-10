@@ -11,12 +11,12 @@ Put a link to it in your toolbar and catch privacy hating friends left and right
 Use it as a ficticious image host for an invisible pixel for your admin view, and *boom*: reusable honeypot.
 
 ## How to get started ##
-Add your pushover information in lib/push.js
+Add your pushover information in ``lib/push.js``
 
     $ npm install
     $ node .
     
-Visit http://localhost:8099 
+Visit ``http://localhost:8099`` 
 
 **DONE**
 
