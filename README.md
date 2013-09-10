@@ -12,6 +12,14 @@ Use it as a ficticious image host for an invisible pixel for your admin view, an
 
 ## How to get started ##
 Add your pushover information in lib/push.js
-  $ node index.js
+
+    $ npm install
+    $ node .
+    
 Visit http://localhost:8099 
 
+**DONE**
+
+Keep it running with [forever](https://github.com/nodejitsu/forever) if you want to.
+
+*Keep your friends scared and yourself paranoid.*
